@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact - fredrick muthami</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Me</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="childhood.html">Childhood</a>
+      <a href="education.html">Education</a>
+      <a href="skills.html">Skills</a>
+      <a href="future-aspiration.html">Future</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <p>Email: <a href="fredmuthami@zetech.ac.ke">fredmuthami@zetech.ac.ke</a></p>
+      <p>Phone: <a href="tel:+254789548900">0796753589</a></p>
+      <p>GitHub: <a href="https://github.com/fredmuthami" target="_blank">github.com/muthami</a></p>
+    </section>
+  </main>
+</body>
+</html>
